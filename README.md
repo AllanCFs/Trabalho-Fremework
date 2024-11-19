@@ -1,5 +1,5 @@
-# Trabalho-Fremework
-Trabalho A3 de framework
+# Trabalho-Framework
+Trabalho A3
 Integrantes - 
 Marcio Henrique Palhares De Lima / 422141544
 Allan Claudio Ferreira Silva / 42210865
